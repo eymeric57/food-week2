@@ -255,8 +255,8 @@ img{
 
 .top-page{
    position: fixed;
-   margin-top: 50px;
-   margin-left: 20px;
+  bottom:5px;
+ left: 20px;
    border: solid 2px #f3e1d5;
    padding: 5px 10px ;
    border-radius: 10px;
